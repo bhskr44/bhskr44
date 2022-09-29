@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there👋, I'm Manel</h1>
+<h1 align="center"> Hi there👋, I'm Bhaskar</h1>
 <h3 align="center">A computer scientist and a software developer from Algeria</h3>
 
 <p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
