@@ -39,7 +39,7 @@
 
 - ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
 
-- 👩 Pronouns: she/her.
+- 👩 Pronouns: he/him.
 
 <h2 align="left">Skills</h2>
 <p align="left">
