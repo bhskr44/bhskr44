@@ -1,38 +1,33 @@
-<h1 align="center"> Hi there👋, I'm Bhaskar</h1>
-<h3 align="center">A computer scientist and a software developer from Algeria</h3>
-
-<p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
-
----
-
 <div align="center">
-  <! -- <img src="https://badges.pufler.dev/visits/ha-manel/ha-manel?color=3f37c9">
-  <img src="https://komarev.com/ghpvc/?username=ha-manel&color=3f37c9">
-  <a href = "https://commits.top/algeria.html" target="_blank">
-		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ha-manel" target="_blank"/> 
-	</a>
+  <! -- <img src="https://badges.pufler.dev/visits/bhskr44/bhskr44?color=3f37c9">
+  <img src="https://komarev.com/ghpvc/?username=bhskr44&color=3f37c9">
 </div>
 
----
+<h1 align="center"> Hi there👋, I'm Bhaskar</h1>
+<h3 align="center">A computer scientist and a software developer from India</h3>
 
-<img align="right" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
+<p align="center">I am a Full-Stack Developer. I have a great passion for bulding softwares, learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
+
+
+
+<img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 	
-- 🎓 I have a **master's degree** in Computer Science (networks & distributed systems). Obtained from the University of Constantine2, Algeria.
+- 🎓 I have a **Bachelor's degree** in Computer Science and ENgineering. Obtained from the Deemed to be University NERIST, India.
 
-- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+- 👩‍💻 I’m currently a freelancher working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
 
-- 🌱 I’m currently working on side projects.
+- 🌱 I’m currently working on a project where ou would be able to find and post properties for rent.
 
-- 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
+- 💻 All **my projects** are available [here.](https://github.com/bhskr44?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://manel-portfolio.herokuapp.com/)
+### 🚀 Check out [my portfolio.](https://bhskr44.github.io/)
 
 ### 📫 Reach me on:
 
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/ha_manel_" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/manel-hammouche/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
-<a href="https://dev.to/hamanel" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/bhskr44" target="_blank"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/twitter.svg" style="color:white;" width="35" height="35">
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/manel-hammouche/" target="_blank"><img align="center" style="color:white;" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/linkedin.svg" alt="linkedin" width="35" /></a> &nbsp;
 </p>
 
 - ✨ Interests: coding, reading books, cooking, art, video games.
@@ -70,8 +65,8 @@
 
 <h2 align ="left">GitHub Stats</h2>
 <div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhskr44&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhskr44&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
 <h2>Weekly Coding Stats</h2>
