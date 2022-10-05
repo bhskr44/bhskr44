@@ -25,9 +25,9 @@
 ### 📫 Reach me on:
 
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/bhskr44" target="_blank"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/twitter.svg" style="color:white;" width="35" height="35">
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/manel-hammouche/" target="_blank"><img align="center" style="color:white;" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/linkedin.svg" alt="linkedin" width="35" /></a> &nbsp;
+<a href="https://twitter.com/bhskr44" target="_blank"><img src="./images/twitter.svg" style="padding-top:15px" width="35" height="35">
+</a> 
+<a href="https://www.linkedin.com/in/manel-hammouche/" target="_blank"><img align="center" style="color:white;" src="./images/linkedin.svg" alt="linkedin" width="35" /></a> 
 </p>
 
 - ✨ Interests: coding, reading books, cooking, art, video games.
