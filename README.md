@@ -29,9 +29,12 @@
 
 - ✨ Interests: coding, learning new frameworks, cooking.
 
-- ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
+- 👦 Pronouns: he/him 
 
-- 👩 Pronouns: he/him.
+- ⚡ Fun facts:  
+  -  **The first computer “bug” was an actual real-life bug.**  
+  -  **There are around 700 separate programming languages. Among all of them, the most popular languages are Javascript, Swift, Scala, Python, PHP, Go, Rust, Ruby, and C#, with millions of users utilizing them in both their careers and personal projects.**
+
 
 <h2 align="left">Skills</h2>
 <p align="left">
@@ -45,6 +48,7 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
+<img height="40" src="./images/aws-icon.svg" style="background:white;padding:10px;border-radius:10px;" alt="AWS" title="AWS" />
 
 </div>
 
