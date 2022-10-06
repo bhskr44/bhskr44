@@ -14,7 +14,7 @@
 
 - 👩‍💻 I’m currently a freelancher working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
 
-- 🌱 I’m currently working on a project where ou would be able to find and post properties for rent.
+- 🌱 I’m currently working on a project where you would be able to find and post properties for rent.
 
 - 💻 All **my projects** are available [here.](https://github.com/bhskr44?tab=repositories)
 
