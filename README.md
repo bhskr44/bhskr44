@@ -1,6 +1,7 @@
 <div align="center">
   <! -- <img src="https://badges.pufler.dev/visits/bhskr44/bhskr44?color=3f37c9">
   <img src="https://komarev.com/ghpvc/?username=bhskr44&color=3f37c9">
+
 </div>
 
 <h1 align="center"> Hi there👋, I'm Bhaskar</h1>
@@ -29,12 +30,11 @@
 
 - ✨ Interests: coding, learning new frameworks, cooking.
 
-- 👦 Pronouns: he/him 
+- 👦 Pronouns: he/him
 
-- ⚡ Fun facts:  
-  -  **The first computer “bug” was an actual real-life bug.**  
-  -  **There are around 700 separate programming languages. Among all of them, the most popular languages are Javascript, Swift, Scala, Python, PHP, Go, Rust, Ruby, and C#, with millions of users utilizing them in both their careers and personal projects.**
-
+- ⚡ Fun facts:
+  - **The first computer “bug” was an actual real-life bug.**
+  - **There are around 700 separate programming languages. Among all of them, the most popular languages are Javascript, Swift, Scala, Python, PHP, Go, Rust, Ruby, and C#, with millions of users utilizing them in both their careers and personal projects.**
 
 <h2 align="left">Skills</h2>
 <p align="left">
@@ -54,13 +54,15 @@
 
 </p>
 
-
 <h2 align ="left">GitHub Stats</h2>
 <div>
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhskr44&show_icons=true&theme=nightowl&count_private=true"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhskr44&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
-<h2>Weekly Coding Stats</h2>
+<h2>Weekly Coding Stats </h2> 
+
+[![wakatime](https://wakatime.com/badge/user/3fec9939-846d-481f-8d92-4c8ad422ac77.svg)](https://wakatime.com/@3fec9939-846d-481f-8d92-4c8ad422ac77)
+
 
 [![bhaskar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhskr44&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
