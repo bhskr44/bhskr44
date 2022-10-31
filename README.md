@@ -1,8 +1,16 @@
+
 <div align="center">
-  <! -- <img src="https://badges.pufler.dev/visits/bhskr44/bhskr44?color=3f37c9">
   <img src="https://komarev.com/ghpvc/?username=bhskr44&color=3f37c9">
 
+	
+[![wakatime](https://wakatime.com/badge/user/3fec9939-846d-481f-8d92-4c8ad422ac77.svg)](https://wakatime.com/@3fec9939-846d-481f-8d92-4c8ad422ac77)
+
+
+<!-- <img src="https://badges.pufler.dev/visits/bhskr44/bhskr44?color=3f37c9"> -->
+
+
 </div>
+
 
 <h1 align="center"> Hi there👋, I'm Bhaskar</h1>
 <h3 align="center">A computer scientist and a software developer from India</h3>
@@ -62,7 +70,6 @@
 
 <h2>Weekly Coding Stats </h2> 
 
-[![wakatime](https://wakatime.com/badge/user/3fec9939-846d-481f-8d92-4c8ad422ac77.svg)](https://wakatime.com/@3fec9939-846d-481f-8d92-4c8ad422ac77)
 
 
 [![bhaskar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhskr44&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
