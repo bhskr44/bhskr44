@@ -65,15 +65,15 @@
 <h2 align ="left">GitHub Stats</h2>
 <div>
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhskr44&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhskr44&show_icons=true&theme=nightowl&layout=compact"/>
-<img height="180" width="420"src="https://github-readme-streak-stats.herokuapp.com/?user=bhskr44&show_icons=true&theme=nightowl&layout=compact" alt="sekoviper" />
+  <!-- <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhskr44&show_icons=true&theme=nightowl&layout=compact"/> -->
+<!-- <img height="180" width="420"src="https://github-readme-streak-stats.herokuapp.com/?user=bhskr44&show_icons=true&theme=nightowl&layout=compact" alt="sekoviper" /> -->
 
 </div>
 
 
 
-<h2>Weekly Coding Stats </h2> 
+<!-- <h2>Weekly Coding Stats </h2>  
 
 
 
-[![bhaskar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhskr44&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![bhaskar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhskr44&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)-->
