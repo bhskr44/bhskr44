@@ -72,8 +72,4 @@
 
 
 
-<!-- <h2>Weekly Coding Stats </h2>  
-
-
-
-[![bhaskar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhskr44&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- <h2>Weekly Coding Stats </h2>  -->
